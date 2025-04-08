@@ -4,7 +4,7 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 
 1. What is the right margin of the first element? 
 ```
-0px
+50px
 ```
 
 2. What is the top padding of the second element?
