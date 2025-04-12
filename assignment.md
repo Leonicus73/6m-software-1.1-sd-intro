@@ -9,7 +9,7 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 
 2. What is the top padding of the second element?
 ```
-Your answer here
+100px
 ```
 
 3. What is the class name of the third element and the content of the css?
