@@ -30,7 +30,7 @@ The :nth-child () pseudo-class selector
         width: 500px;
       }
 
-      .child {
+.child {
         width: 200px; /* Or any desired width */
         height: 100px; /* Or any desired height */
         box-sizing: border-box;
