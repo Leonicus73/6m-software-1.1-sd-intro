@@ -36,6 +36,12 @@ The :nth-child () pseudo-class selector
         box-sizing: border-box;
         border: 2px solid blue; /* Example border */
       }
+<div class="parent">
+      <div class="child">
+        Keep the blue box within the purple box using the box-sizing property.
+        You can edit the css code on the developer's tool.
+      </div>
+</div>
 ```
 
 > hint: you should apply box-sizing property to the `.child` class. Make the changes on the developer's tool to see immediate UI change.
