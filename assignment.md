@@ -14,17 +14,17 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 
 3. What is the class name of the third element and the content of the css?
 ```
-Your answer here
+elementThree
 ```
 
 4. What is the css selector of the fourth element?
 ```
-Your answer here
+The :nth-child () pseudo-class selector
 ```
 
 5. What is the code you use to keep the blue box within the purple?
 ```
-Your answer here
+Using the div class="parent" tag for the purple box as the parent of the child div class="child" tag for the blue box
 ```
 
 > hint: you should apply box-sizing property to the `.child` class. Make the changes on the developer's tool to see immediate UI change.
