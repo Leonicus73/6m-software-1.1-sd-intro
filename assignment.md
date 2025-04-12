@@ -24,7 +24,18 @@ The :nth-child () pseudo-class selector
 
 5. What is the code you use to keep the blue box within the purple?
 ```
-Using the div class="parent" tag for the purple box as the parent of the child div class="child" tag for the blue box
+.parent {
+        border: purple 8px solid;
+        margin: 0;
+        width: 500px;
+      }
+
+      .child {
+        width: 200px; /* Or any desired width */
+        height: 100px; /* Or any desired height */
+        box-sizing: border-box;
+        border: 2px solid blue; /* Example border */
+      }
 ```
 
 > hint: you should apply box-sizing property to the `.child` class. Make the changes on the developer's tool to see immediate UI change.
